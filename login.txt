@@ -1,0 +1,6 @@
+user(user@gmail.com
+pw=user1)
+volenteer(vl@gmail.com
+pw=isuri)
+admin(admin@gmail.com
+pw=admin)
